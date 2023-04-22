@@ -1,1 +1,1 @@
-Bu repoda react öğrenirken yaptığım alıştırmaları & projeleri paylaşıcağım.
+Bu repoda react öğrenirken yaptığım alıştırmaları & projeleri paylaşacağım.
